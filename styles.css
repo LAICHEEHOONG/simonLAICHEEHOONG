@@ -1,0 +1,83 @@
+body {
+  text-align: center;
+  background-color: #f4f4f4;
+}
+
+.hiddenBox {
+  padding: 200px;
+}
+
+.row {
+  text-align: center;
+}
+
+.inputWidth {
+  margin: 1% auto;
+  width: 50%;
+  float: none; 
+}
+
+.buttonPlay {
+  margin-top: 100px;
+}
+
+#level-title {
+  font-family: 'Fredoka One', cursive;
+  font-size: 3rem;
+  margin-top: 200px;
+  margin-bottom: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#showLevel {
+  font-family: 'Fredoka One', cursive;
+  font-size: 3rem;
+  margin: 50px auto;
+  box-shadow: 10px 10px 5px grey;
+  
+}
+
+.inputWidth2 {
+  margin: 1% auto;
+  width: 50%;
+  float: none; 
+}
+
+.btnG {
+  margin: 25px;
+  display: inline-block;
+  height: 290px;
+  width: 290px;
+  border: 3px solid #f0f0f0;
+  border-radius: 20%;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: #f76a8c;
+}
+
+.green {
+  background-color: #75daad;
+}
+
+.blue {
+  background-color: #efb1ff;
+}
+
+.yellow {
+  background-color: #f8fab8;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+
